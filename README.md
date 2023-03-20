@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>TATE</title>
+  <title>:muscle:TATE</title>
   </head>
 <body>
 <h1>About TATE</h1>
