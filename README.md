@@ -74,7 +74,7 @@ However, it is worth noting that not everyone agrees with Andrew Tate's views, a
 
 Overall, whether or not to support Andrew Tate is a personal decision that depends on one's beliefs and values. It is crucial to approach political and social issues with an open mind, respect for others, and a commitment to constructive dialogue.</p>
 <h3>Supporters</h3>
-<p>After searching for years I have finally found the biggest supporter of Andrew TATE. His name is Farhan TATE. Here is a clip of him.</p>
+<p>After searching for years I have finally found the biggest supporter of Andrew TATE. His name is Farhan TATE. Here is a clip of him if you wanna check.</p>
 <video width="230" height="240" controls>
   <source src="TATE.mp4" type="video/mp4">
 Your browser does not support the video tag.
