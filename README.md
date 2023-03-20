@@ -61,7 +61,7 @@ In conclusion, Andrew Tate is a complex and controversial figure who has achieve
   </body>
 
   <body>
-<h1>Supporting ATE</h1>
+<h1>Supporting TATE</h1>
 <h3>Reasons people support TATE</h3>
 <p>Some people may support him because they agree with his views on various topics, such as masculinity, entrepreneurship, and personal responsibility.
 
