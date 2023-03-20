@@ -72,7 +72,7 @@ Tate has also been vocal about his opposition to political correctness and cance
 However, it is worth noting that not everyone agrees with Andrew Tate's views, and many people find his statements offensive or inappropriate. It is essential to respect differing opinions and engage in respectful discourse rather than promoting divisive or harmful rhetoric.
 
 
-Overall, whether or not to support Andrew Tate is a personal decision that depends on one's beliefs and values. It is crucial to approach political and social issues with an open mind, respect for others, and a commitment to constructive dialogue.</p>
+Overall, whether or not to support Andrew Tate is a personal decision that depends on one's beliefs and values. It is crucial to approach political and social issues with an open mind, respect fo others, and a commitment to constructive dialogue.</p>
 <h3>Supporters</h3>
 <p>After searching for years I have finally found the biggest supporter and fan of Andrew TATE. His name is Farhan TATE. Here is a clip of him if you wanna check.</p>
 <video width="230" height="240" controls>
