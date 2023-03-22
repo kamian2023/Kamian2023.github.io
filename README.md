@@ -9,7 +9,7 @@
 <p>Andrew Tate is a British kickboxer, entrepreneur, and social media personality. He is known for his controversial opinions and unapologetic approach to life. Tate was born in the United States in 1986 but later moved to England where he began his kickboxing career.
 
 
-Tate has achieved signifiant success in kickboxing, winning numerous titles including the IKF World Championship and the WAKO World Championship. He retired from professional kickboxing in 2016 to focus on his businesses and social media ventures.
+Tate has achieved significant success in kickboxing, winning numerous titles including the IKF World Championship and the WAKO World Championship. He retired from professional kickboxing in 2016 to focus on his businesses and social media ventures.
 
 
 Tate's social media presence has garnered significant attention, with over 500,000 followers on Instagram and a large following on YouTube. He is known for his provocative and controversial opinions on a range of topics, including politics, relationships, and mental health.
