@@ -23,7 +23,7 @@ Tate's approach to life and his controversial opinions have earned him both admi
 
 In conclusion, Andrew Tate is a complex and controversial figure who has achieved significant success in kickboxing and garnered a large following on social media. While some admire his unapologetic approach to life, others criticize his controversial opinions and the potential harm they may cause. Regardless of one's opinion of him, there is no denying that Tate is a unique and polarizing figure in today's society.</p>
 <h3>Latest News</h3>
-<p>He had his appeal against continued detention in Romania rejected by a court, meaning he will remain in custody until 29 March. [1] Recently, on 5 February 2023, Tate tweeted from his Romanian prison cell that he has updated his will and will donate $100 million[2]. As of now, there are no further updates on his case. To stay up-to-date with the latest news on Andrew Tate, one can visit Marca's website, which provides news, posts, videos, and analysis related to him.</p>
+<p>He had his appeal against continued detention in Romania rejected by a court, meaning he will remain in custody until 29 March. [1] Recently, on 5 February 2023, Tate tweeted from his Romanian prison cell that he has updated his will and will donate $100 million[2]. As of now, there are no further updates on his case. To stay up-to-date with the latest news drew Tate, one can visit Marca's website, which provides news, posts, videos, and analysis related to him.</p>
 <h3>Theme Song</h3>
 <!DOCTYPE html>
 <html>
