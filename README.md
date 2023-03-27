@@ -6,7 +6,7 @@
 <h1>About TATE</h1>
 <h3>INTRODION</h3>
 <img src="tate.png" alt="TATE" style="width:165px;height:180px;">
-<p>Andrew Tate is a British kickboxer, entrepreneur, and social media personality. He is known for his controversial opinions and unapologetic approach to life. Tate was born in the United States in 1986 but later moved to England where he began his kickboxing career.
+<p>Andrew Tate is a British kickboxer, entrepreneur, and social media personality. He is known for his controversial opinions and unapologetic approach to life. Tate was born in the United States in 1986 but l to England where he began his kickboxing career.
 
 
 Tate has achieved significant success in kickboxing, winning numerous titles including the IKF World Championship and the WAKO World Championship. He retired from professional kickboxing in 2016 to focus on his businesses and social media ventures.
