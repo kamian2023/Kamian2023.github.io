@@ -4,7 +4,7 @@
   </head>
 <body>
 <h1>About TATE</h1>
-<h3>INTRODUCTION</h3>
+<h3>INTRODION</h3>
 <img src="tate.png" alt="TATE" style="width:165px;height:180px;">
 <p>Andrew Tate is a British kickboxer, entrepreneur, and social media personality. He is known for his controversial opinions and unapologetic approach to life. Tate was born in the United States in 1986 but later moved to England where he began his kickboxing career.
 
