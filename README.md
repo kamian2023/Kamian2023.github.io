@@ -4,9 +4,9 @@
   </head>
 <body>
 <h1>About TATE</h1>
-<h3>INTRODUCTION</h3>
+<h3>INTRODION</h3>
 <img src="tate.png" alt="TATE" style="width:165px;height:180px;">
-<p>Andrew Tate is a British kickboxer, entrepreneur, and social media personality. He is known for his controversial opinions and unapologetic approach to life. Tate was born in the United States in 1986 but later moved to England where he began his kickboxing career.
+<p>Andrew Tate is a British kickboxer, entrepreneur, and social media personality. He is known for his controversial opinions and unapologetic approach to life. Tate was born in the United States in 1986 but l to England where he began his kickboxing career.
 
 
 Tate has achieved significant success in kickboxing, winning numerous titles including the IKF World Championship and the WAKO World Championship. He retired from professional kickboxing in 2016 to focus on his businesses and social media ventures.
@@ -23,7 +23,7 @@ Tate's approach to life and his controversial opinions have earned him both admi
 
 In conclusion, Andrew Tate is a complex and controversial figure who has achieved significant success in kickboxing and garnered a large following on social media. While some admire his unapologetic approach to life, others criticize his controversial opinions and the potential harm they may cause. Regardless of one's opinion of him, there is no denying that Tate is a unique and polarizing figure in today's society.</p>
 <h3>Latest News</h3>
-<p>He had his appeal against continued detention in Romania rejected by a court, meaning he will remain in custody until 29 March. [1] Recently, on 5 February 2023, Tate tweeted from his Romanian prison cell that he has updated his will and will donate $100 million[2]. As of now, there are no further updates on his case. To stay up-to-date with the latest news on Andrew Tate, one can visit Marca's website, which provides news, posts, videos, and analysis related to him.</p>
+<p>He had his appeal against continued detention in Romania rejected by a court, meaning he will remain in custody until 29 March. [1] Recently, on 5 February 2023, Tate tweeted from his Romanian prison cell that he has updated his will and will donate $100 million[2]. As of now, there are no further updates on his case. To stay up-to-date with the latest news drew Tate, one can visit Marca's website, which provides news, posts, videos, and analysis related to him.</p>
 <h3>Theme Song</h3>
 <!DOCTYPE html>
 <html>
